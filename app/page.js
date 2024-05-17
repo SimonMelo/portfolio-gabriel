@@ -2,6 +2,7 @@ import ContactButton from "./components/ContactButton";
 import Form from "./components/Form";
 import ContactInfo from "./components/ContactInfo";
 import Navbar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 const Home = () => {
   return (
@@ -296,6 +297,7 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <Footer/>
     </div>
   );
 };
