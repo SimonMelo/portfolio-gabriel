@@ -28,7 +28,7 @@ const Contact = () => {
         Contato
       </Typography>
       <Box sx={{ display: 'flex', alignItems: 'left', gap: 1 }}>
-        <EmailIcon />
+        <EmailIcon style={{color: 'red'}} />
         <Typography>gmcontatodev@gmail.com</Typography>
       </Box>
       <Box sx={{ display: 'flex', alignItems: 'left', gap: 1 }}>

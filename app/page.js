@@ -88,7 +88,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">Frontend de um formulário de pesquisa</span>
+                  <span class="text-center font-bold">Frontend de um formulário de pesquisa</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
@@ -121,7 +121,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">API de um formulário de pesquisa</span>
+                  <span class="text-center font-bold">API de um formulário de pesquisa</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
@@ -154,7 +154,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">Frontend de um sistema de ponto</span>
+                  <span class="text-center font-bold">Frontend de um sistema de ponto</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
@@ -188,7 +188,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">API de um sistema de ponto</span>
+                  <span class="text-center font-bold">API de um sistema de ponto</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
@@ -221,7 +221,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">API de pagamento</span>
+                  <span class="text-center font-bold">API de pagamento</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
@@ -254,7 +254,7 @@ const Home = () => {
             <div class="relative drop-shadow-xl w-48 h-64 overflow-hidden rounded-xl bg-[#ff0000]">
               <div class="absolute flex items-center justify-center text-white z-[1] opacity-90 rounded-xl inset-0.5 bg-[#323132]">
                 <div class="group relative flex flex-col items-center">
-                  <span class="text-center">API de um projeto universitário</span>
+                  <span class="text-center font-bold">API de um projeto universitário</span>
                   <button
                     class="group flex justify-center p-2 rounded-md drop-shadow-xl bg-gradient-to-r from-gray-800 to-black text-white font-semibold hover:translate-y-3 transition-all duration-500 hover:from-[#331029] hover:to-[#ff000]"
                   >
